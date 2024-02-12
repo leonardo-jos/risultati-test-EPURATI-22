@@ -1,5 +1,5 @@
 # risultati-test-EPURATI-22
-Quick data nalysis with some graphs
+Quick data analysis with some graphs
 
 1) Frequency distribution for variable(column) D F H J .
 2) Correlation matrix between 6 variables (column) A, B, K, L, M, N .
